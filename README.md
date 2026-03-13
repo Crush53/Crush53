@@ -1,6 +1,6 @@
 # Peyton Molino
 
-ML Platform Engineer with experience building production systems across machine learning infrastructure, backend services, data pipelines, and cloud platforms. I focus on scalable, reliable systems that support analytics, inference, and operational automation.
+ML Platform Engineer with a degree in mathematics and experience building production systems across machine learning infrastructure, backend services, data pipelines, and cloud platforms. I focus on scalable, reliable systems that support analytics, inference, and operational automation.
 
 I work across the boundary of applied AI, platform engineering, and data-intensive backend systems. My recent work has included building ingestion and transformation pipelines, supporting production inference workflows, developing backend services in Rust and Python, and automating infrastructure for containerized and cloud-hosted applications.
 
