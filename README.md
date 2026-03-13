@@ -32,7 +32,7 @@ Python, Rust, SQL, R, C++
 Django, FastAPI, Axum
 
 **Data & Analytics**  
-PostgreSQL, TimescaleDB, PostGIS, Pandas, Polars, dbt, SQLAlchemy
+PostgreSQL, TimescaleDB, PostGIS, Pandas, Polars, SQLAlchemy
 
 **ML / AI**  
 scikit-learn, PyTorch, TensorFlow, ONNX
